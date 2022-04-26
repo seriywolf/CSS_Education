@@ -4,11 +4,12 @@ body{
     flex-direction: column;
     align-items: center;
     margin:0;
+    font-family: 'Roboto', sans-serif;
 }
 
 .information .title{
     font-size: 36px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color:#1f2937;
 }
 
@@ -43,8 +44,6 @@ p{
      width:800px;
      display: flex;
      justify-content: center;
-
-
  }
 
 .signup{
