@@ -3,7 +3,6 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    flex:1;
 }
 
 .signup{
@@ -42,9 +41,10 @@ body{
 footer{
     background-color: #1f2937;
     color:beige;
-    height:32px;
-    text-align: center;
-    display: inline;
-    flex-direction: row;
-    
+    height:82px;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
