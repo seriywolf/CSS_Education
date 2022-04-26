@@ -5,6 +5,18 @@ body{
     align-items: center;
 }
 
+figure{
+    background-color: #E5E7EB;
+}
+
+blockquote{
+    font-weight: light;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+
 .signup{
     display: flex;
     width: 48em;
