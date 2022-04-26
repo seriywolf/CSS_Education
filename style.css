@@ -6,6 +6,12 @@ body{
     margin:0;
 }
 
+.information .title{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color:#1f2937;
+}
+
 figure{
     background-color: #E5E7EB;
     margin:48px 0 0 0;
