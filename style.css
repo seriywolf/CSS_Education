@@ -78,10 +78,9 @@ p{
     margin: 48px;
 }
 
-.signup, .signup button{
+.signup, button{
     background-color: #3882f6;
     color: white;
-
 }
 
 .signup .header{
@@ -94,7 +93,7 @@ p{
     margin-top: 12px;
 }
 
-.signup button{
+button{
     border:2px white solid;
     height: 40px;
     width:auto;
