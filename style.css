@@ -27,10 +27,12 @@ body{
 
 img{
     width: auto;
-    height:200px;
-
+    height:180px;
 }
 
+.card .text{
+    text-align: center;
+}
 figure{
     background-color: #E5E7EB;
     margin:48px 0 0 0;
