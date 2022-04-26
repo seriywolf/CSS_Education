@@ -2,8 +2,24 @@ body{
     flex-direction: column;
     
 }
+
+.signup, .signup button{
+    background-color: #3882f6;
+    color: white;
+    font-size: 18px;
+}
+
+.signup .header{
+    font-size:24px;
+    font-weight: bold;
+}
+
+.signup button{
+    border:2px white solid;
+}
+
 footer{
-    background-color: black;
+    background-color: #1f2937;
     color:beige;
     height:32px;
     text-align: center;
