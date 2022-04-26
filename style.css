@@ -7,13 +7,29 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.information{
+    margin: 48px;
+}
+
 .information .title{
     font-size: 36px;
     font-weight: bolder;
     color:#1f2937;
+    text-align: center;
+    margin: 36px;
 }
 
-img{width: 20%;}
+.container{
+    display: flex;
+    gap: 32px;
+    font-size: 18px;
+}
+
+img{
+    width: auto;
+    height:200px;
+
+}
 
 figure{
     background-color: #E5E7EB;
