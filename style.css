@@ -7,6 +7,30 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.header, footer{
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.header{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.top, ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+ul{
+    gap: 48px;
+    margin: 0;
+    padding: 0;
+}
+
 .information{
     margin: 48px;
 }
@@ -83,7 +107,7 @@ p{
     color: white;
 }
 
-.signup .header{
+.signup .upper{
     font-size:24px;
     font-weight: bold;
     margin-bottom: 12px;
@@ -103,8 +127,6 @@ button{
 }
 
 footer{
-    background-color: #1f2937;
-    color:beige;
     height:82px;
     width: 100%;
     display: flex;
